@@ -1,3 +1,3 @@
 # FA_TRAINER
 ## Requirements
-* DevOps
+* Open JDK 11
